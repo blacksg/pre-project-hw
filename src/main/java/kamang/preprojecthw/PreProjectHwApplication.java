@@ -9,5 +9,4 @@ public class PreProjectHwApplication {
     public static void main(String[] args) {
         SpringApplication.run(PreProjectHwApplication.class, args);
     }
-
 }
